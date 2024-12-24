@@ -8,9 +8,9 @@ Kelompok 2 :
 - Tahta
 - Sulaiman
 
-Kelompok 3 :
--pai
--faqih
+Kelompok 3 : Calculator Web
+-Ahmad Rifai
+-Muhammad Faqih Al Fadholi
 
 Kelompok 4 :
 -Dento
