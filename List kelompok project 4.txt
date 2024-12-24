@@ -16,7 +16,7 @@ Kelompok 4 :
 - Muhammad Radja Maulana
 - Faiz Daffa Fadlullah
 
-Kelompok 5:
+Kelompok 5: BMI Calculator
 -Divo
 -Hariz
 
