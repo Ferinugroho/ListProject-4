@@ -4,7 +4,7 @@ Kelompok 1 :
 - Dento
 - Xabiant 
 
-Kelompok 2 :
+Kelompok 2 : Currency Converter Web
 - Tahta
 - Sulaiman
 
